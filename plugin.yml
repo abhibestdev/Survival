@@ -1,0 +1,15 @@
+name: Survival
+author: abhi
+version: 1.0
+main: me.abhi.survival.Survival
+commands:
+  team:
+    aliases: [t]
+  economy:
+    aliases: [eco]
+  balance:
+    aliases: [bal, money, $]
+  pay:
+  claim:
+  unclaim:
+  permit:
